@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "TravelSages": {
+            "applicationId": "tODHHsxlD4kr43TJG7T0TB74doArNn9w370bG4s9", 
+            "masterKey": "mIP1ODWw9xw7UxG6Ffond3p8oZt49z9uiTsQhXRo"
+        }, 
+        "_default": {
+            "link": "TravelSages"
+        }
+    }
+}
